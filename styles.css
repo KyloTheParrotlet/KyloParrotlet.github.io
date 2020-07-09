@@ -1,0 +1,34 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center; 
+    font-size: 70px;
+    text-shadow: blue;
+}
+
+marquee {
+    color: red;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.aboutMe {
+    text-align: center;
+    color: orangered;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rohie {
+    text-align: center;
+}
